@@ -1,5 +1,5 @@
 # Azure-Blob-Manager
-The repository contains code snippets to interact with Azure Blob Storage.   
+The repository contains code snippets to interact with Azure Blob Storage using service principal credentials(such as: client ID, tenant ID, and client secret).  
     
 ### Features    
 ✅ List all blobs in a container     
